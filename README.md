@@ -4,7 +4,7 @@ sungb.in site hosting repository
 
 ---
 
-### 양식
+### 새로운 링크 추가 양식
 
 ```
 <script type="text/javascript">location.href = ' ';</script>
