@@ -7,5 +7,5 @@ sungb.in site hosting repository
 ### 양식
 
 ```
-<script type="text/javascript"> location.href = " "; </script>
+<script type="text/javascript">location.href = ' ';</script>
 ```
