@@ -1,6 +1,6 @@
-# compose-sample-links.md
+# [네이버 강연] Jetpack Compose A to Z
 
-> 네이버에서 진행한 `Jetpack Compose A to Z` 강연에 쓰인 Jetpack Compose 샘플 코드 모음
+샘플 코드 모음
 
 ---
 
