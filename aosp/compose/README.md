@@ -1,6 +1,6 @@
 # compose-aosp-links.md
 
-> 네이버에서 진행한 `Jetpack Compose A to Z` 강연에 쓰인 Jetpack Compose AOSP 링크 모음
+> 네이버에서 진행한 `Jetpack Compose A to Z` 강연에 쓰인 Jetpack Compose AOSP 코드 모음
 
 ---
 
