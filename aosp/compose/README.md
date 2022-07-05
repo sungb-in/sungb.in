@@ -17,3 +17,5 @@ AOSP 코드 모음
 
 - [animateColorAsState](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/animation/animation/src/commonMain/kotlin/androidx/compose/animation/SingleValueAnimation.kt;l=35-67)
 - [spring](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/animation/animation-core/src/commonMain/kotlin/androidx/compose/animation/core/AnimationSpec.kt;l=524-539)
+- [tween](https://cs.android.com/androidx/platform/frameworks/support/+/androidx-main:compose/animation/animation-core/src/commonMain/kotlin/androidx/compose/animation/core/AnimationSpec.kt;l=510-522)
+- [easing](https://cs.android.com/androidx/platform/tools/dokka-devsite-plugin/+/master:testData/compose/source/androidx/compose/animation/core/Easing.kt)
