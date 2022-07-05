@@ -16,3 +16,4 @@
 ### Animation
 
 - [movieselector-basic](https://github.com/jisungbin/AndroidPlayground/blob/94954c6eda8bdbe65685d6f547a3c2fa7b356522/app/src/main/kotlin/land/sungbin/androidplayground/snippet/animation/movie/movie-selector.kt#L154-L198)
+- [movieselector-highlevel-animated](https://github.com/jisungbin/AndroidPlayground/blob/856343c9760df4cce238e064dcbb996707f88891/app/src/main/kotlin/land/sungbin/androidplayground/snippet/animation/movie/movie-selector.kt#L199-L258)
