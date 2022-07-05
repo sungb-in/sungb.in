@@ -17,3 +17,7 @@
 
 - [movieselector-basic](https://github.com/jisungbin/AndroidPlayground/blob/94954c6eda8bdbe65685d6f547a3c2fa7b356522/app/src/main/kotlin/land/sungbin/androidplayground/snippet/animation/movie/movie-selector.kt#L154-L198)
 - [movieselector-highlevel-animated](https://github.com/jisungbin/AndroidPlayground/blob/856343c9760df4cce238e064dcbb996707f88891/app/src/main/kotlin/land/sungbin/androidplayground/snippet/animation/movie/movie-selector.kt#L199-L258)
+- [keyframes](https://github.com/jisungbin/AndroidPlayground/blob/583e22adaefe30f5870e15a596542a44032ac04e/app/src/main/kotlin/land/sungbin/androidplayground/snippet/animation/animation-spec.kt#L216-L227)
+- [repeatable](https://github.com/jisungbin/AndroidPlayground/blob/93f815034635df0a170a883d6d7aeada204bbe88/app/src/main/kotlin/land/sungbin/androidplayground/snippet/fake/animation.kt#L162-L181)
+- [infiniteRepeatable](https://github.com/jisungbin/AndroidPlayground/blob/93f815034635df0a170a883d6d7aeada204bbe88/app/src/main/kotlin/land/sungbin/androidplayground/snippet/fake/animation.kt#L183-L195)
+- [snap](https://github.com/jisungbin/AndroidPlayground/blob/93f815034635df0a170a883d6d7aeada204bbe88/app/src/main/kotlin/land/sungbin/androidplayground/snippet/fake/animation.kt#L197-L205)
